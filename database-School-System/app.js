@@ -15,7 +15,7 @@ app.post("/chat", sendMessage);
 
 // mongoose
 //   .connect(
-//     "mongodb+srv://coligoInternship:internship@cluster0.owz5w.mongodb.net/School?retryWrites=true&w=majority"
+//     "mongodb+srv://username:password@cluster0.owz5w.mongodb.net/School?retryWrites=true&w=majority"
 //   )
 //   .then(() => {
 //     app.listen(5000);
