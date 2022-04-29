@@ -1,0 +1,1 @@
+the database called school with 3 collections;1-teachers 2-courses 3-messages they are connected with eachother with mongodb's objectID
